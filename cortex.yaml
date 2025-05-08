@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-githyanki-knight
+  x-cortex-tag: monster-githyanki-knight
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: humanoid
+    challenge_rating: 8
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
